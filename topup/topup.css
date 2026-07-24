@@ -1,0 +1,525 @@
+/* ==========================================
+   RESET
+========================================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    background:#08162d;
+
+    color:#fff;
+
+    font-family:Arial,Helvetica,sans-serif;
+
+}
+/* ==========================================
+   NAVBAR
+========================================== */
+
+.navbar{
+
+    width:100%;
+
+    height:75px;
+
+    display:flex;
+
+    align-items:center;
+
+    padding:0 20px;
+
+    background:#0d2145;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.35);
+
+}
+
+.back-btn{
+
+    width:45px;
+
+    height:45px;
+
+    border:none;
+
+    border-radius:12px;
+
+    background:#21448f;
+
+    color:#fff;
+
+    font-size:22px;
+
+    cursor:pointer;
+
+}
+
+.navbar-logo{
+
+    display:flex;
+
+    align-items:center;
+
+    margin-left:15px;
+
+}
+
+#gameLogo{
+
+    width:55px;
+
+    height:55px;
+
+    border-radius:15px;
+
+    object-fit:cover;
+
+}
+
+.game-title{
+
+    margin-left:15px;
+
+}
+
+.game-title h2{
+
+    font-size:22px;
+
+}
+
+.game-title p{
+
+    color:#b5c4ff;
+
+    margin-top:5px;
+}
+/* ==========================================
+   BANNER
+========================================== */
+
+.banner-section{
+    margin-top: 3%;
+    padding:0px;
+
+}
+
+.slider{
+
+    width:100%;
+
+    overflow:hidden;
+
+}
+
+#bannerImage{
+
+    width:100%;
+
+    height:220px;
+
+    object-fit:cover;
+
+    
+
+}
+
+.slider-dots{
+
+    margin-top:15px;
+
+    text-align:center;
+
+}
+/* ==========================================
+   JUDUL
+========================================== */
+
+.title-section{
+
+    padding:0 20px 20px;
+
+}
+
+.title-section h2{
+
+    font-size:25px;
+
+}
+
+.title-section p{
+
+    color:#b9c6e8;
+
+    margin-top:8px;
+
+}
+/* ==========================================
+   KATALOG
+========================================== */
+
+.diamond-container{
+    backgorund-color:blue;
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:15px;
+
+    padding:10px;
+
+}
+
+.diamond-card{
+    
+
+   background:#13284f; 
+
+   /* border-radius:18px;*/
+
+    border:2px solid transparent;
+
+    
+
+    text-align:center;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.diamond-card:hover{
+
+    border:2px solid #33c2ff;
+
+    transform:translateY(-5px);
+
+}
+
+.diamond-card img{
+
+    width: 100%;
+
+    height:80%;
+
+    object-fit:contain;
+
+}
+
+.diamond-card h3{
+
+    margin-top:12px;
+
+    font-size:17px;
+
+}
+
+.diamond-card p{
+
+    margin-top:0px;
+
+    color:#ffd34a;
+
+    font-weight:bold;
+
+}
+
+.diamond-card.active{
+
+    border:2px solid #ffd34a;
+
+}
+/* ==========================================
+   BUTTON
+========================================== */
+
+.buy-section{
+
+    padding:20px;
+
+}
+
+#buyButton{
+
+    width:100%;
+
+    height:55px;
+
+    border:none;
+
+    border-radius:15px;
+
+    background:#1b8cff;
+
+    color:white;
+
+    font-size:18px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+}
+
+#buyButton:hover{
+
+    background:#36a0ff;
+
+}
+
+/* ==========================================
+   TABLET
+========================================== */
+
+@media(min-width:768px){
+
+    .diamond-container{
+
+        max-width:950px;
+
+        margin:auto;
+
+        gap:25px;
+
+    }
+
+    .diamond-card{
+
+        padding:25px;
+
+    }
+
+    .diamond-card img{
+
+        width:75px;
+
+        height:75px;
+
+    }
+
+    .diamond-card h3{
+
+        font-size:22px;
+
+    }
+
+    .diamond-card p{
+
+        font-size:18px;
+
+    }
+
+    #bannerImage{
+
+        height:320px;
+
+    }
+
+}
+
+/* ==========================================
+   DESKTOP
+========================================== */
+
+@media(min-width:1200px){
+
+    .banner-section{
+
+        max-width:1400px;
+
+        margin:auto;
+
+    }
+
+    .title-section{
+
+        max-width:1400px;
+
+        margin:auto;
+
+    }
+
+    .diamond-container{
+
+        max-width:1400px;
+
+        margin:auto;
+
+        gap:35px;
+
+    }
+
+    .diamond-card{
+
+        padding:35px;
+
+        border-radius:22px;
+
+    }
+
+    .diamond-card img{
+
+        width:100px;
+
+        height:100px;
+
+    }
+
+    .diamond-card h3{
+
+        font-size:28px;
+
+    }
+
+    .diamond-card p{
+
+        font-size:22px;
+
+    }
+
+    #bannerImage{
+
+        height:430px;
+
+    }
+
+    .buy-section{
+
+        max-width:1400px;
+
+        margin:auto;
+
+    }
+
+    #buyButton{
+
+        height:70px;
+
+        font-size:22px;
+
+    }
+
+}
+.popup{
+
+    position:fixed;
+
+    inset:0;
+    
+    background:rgba(0,0,0,.7);
+
+    display:none;
+
+    justify-content:center;
+
+    align-items:center;
+
+    z-index:9999;
+
+}
+
+.popup-box{
+
+    width:90%;
+
+    max-width:420px;
+
+    background:#13284f;
+
+    border-radius:20px;
+
+    padding:25px;
+
+    text-align:center;
+
+}
+
+#popupImage{
+
+    width:100%;
+
+    height:100%;
+
+    object-fit:contain;
+
+    margin:15px auto;
+
+}
+
+#popupNominal{
+
+    margin-bottom:10px;
+
+}
+
+#popupHarga{
+
+    color:#ffd54f;
+
+    margin-bottom:20px;
+
+    font-size:20px;
+
+    font-weight:bold;
+
+}
+
+.popup-box input{
+
+    width:100%;
+
+    height:50px;
+
+    margin-bottom:15px;
+
+    border:none;
+
+    border-radius:12px;
+
+    padding:0 15px;
+
+}
+
+.popup-action{
+
+    display:flex;
+
+    gap:10px;
+
+}
+
+.popup-action button{
+
+    flex:1;
+
+    height:50px;
+
+    border:none;
+
+    border-radius:12px;
+
+    cursor:pointer;
+
+}
+
+#btnCancel{
+
+    background:#666;
+
+    color:white;
+
+}
+
+#btnContinue{
+
+    background:#1b8cff;
+
+    color:white;
+
+}

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Up Game</title>
+
+    <link rel="stylesheet" href="topup.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <header class="navbar">
+
+        <button class="back-btn">
+            <<
+        </button>
+
+        <div class="navbar-logo">
+
+          
+
+            <div class="game-title">
+                <h2 id="gameName">Mobile Legends</h2>
+                <p>Top Up Diamond</p>
+                
+            </div>
+  <p id= "gameLogo"></p>
+        </div>
+
+    </header>
+
+    <!-- Banner -->
+    <section class="banner-section">
+
+        <div class="slider">
+
+            <img id="bannerImage" src="" alt="Banner">
+
+          <!--  <button class="prev">&#10094;</button>
+
+            <button class="next">&#10095;</button>-->
+
+        </div>
+
+        <div id="sliderDots" class="slider-dots"></div>
+
+    </section>
+
+    <!-- Judul -->
+    <section class="title-section">
+
+        <h2>Pilih Nominal Diamond</h2>
+
+        <p>Pilih jumlah diamond yang ingin dibeli.</p>
+
+    </section>
+
+    <!-- Katalog -->
+    <section>
+
+        <div id="diamondContainer" class="diamond-container">
+        
+         
+
+   
+        
+        </>
+
+            <!-- Diisi otomatis oleh topup.js -->
+
+        </div>
+
+    </section>
+
+    <!-- Tombol -->
+    <section class="buy-section">
+
+        <button id="buyButton">
+
+            Top Up Sekarang
+
+        </button>
+
+    </section>
+
+
+  <!-- POPUP -->
+
+<div id="popupTopup" class="popup">
+
+    <div class="popup-box">
+
+        <h2>Konfirmasi Pembelian</h2>
+
+        <img id="popupImage" src="" alt="Diamond">
+
+        <h3 id="popupNominal"></h3>
+
+        <p id="popupHarga"></p>
+
+        <input
+            type="text"
+            id="userId"
+            placeholder="Masukkan ID Game">
+
+        <input
+            type="text"
+            id="zoneId"
+            placeholder="Masukkan Zone ID">
+
+        <div class="popup-action">
+
+            <button id="btnCancel">
+                Batal
+            </button>
+
+            <button id="btnContinue">
+                Lanjutkan
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
+
+    <script src="topup.js"></script>
+  
+</body>
+</html>
