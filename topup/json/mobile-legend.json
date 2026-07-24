@@ -1,1 +1,80 @@
+{
+  "game": "Mobile Legends",
+  "code": "mobile-legends",
 
+  "logo": "https://romdoniahmad185-cmyk.github.io/image-game-/logo/mobile-legends.png",
+
+  "banner": [
+    "https://romdoniahmad185-cmyk.github.io/image-game-/topup/banner/mobile-legends/slide1.png",
+    "https://romdoniahmad185-cmyk.github.io/image-game-/topup/banner/mobile-legends/slide2.png",
+    "https://romdoniahmad185-cmyk.github.io/image-game-/topup/banner/mobile-legends/slide3.png"
+  ],
+
+  "currency": "Diamond",
+
+  "products": [
+    {
+      "id": "ml5",
+      "amount": 5,
+      "unit": "Diamond",
+      "price": 2000,
+      "image": "https://romdoniahmad185-cmyk.github.io/image-game-/diamond-icon/diamond5.png"
+    },
+    {
+      "id": "ml12",
+      "amount": 12,
+      "unit": "Diamond",
+      "price": 4000,
+      "image": "https://romdoniahmad185-cmyk.github.io/image-game-/diamond-icon/diamond12.png"
+    },
+    {
+      "id": "ml19",
+      "amount": 19,
+      "unit": "Diamond",
+      "price": 6000,
+      "image": "https://romdoniahmad185-cmyk.github.io/image-game-/diamond-icon/diamond19.png"
+    },
+    {
+      "id": "ml28",
+      "amount": 28,
+      "unit": "Diamond",
+      "price": 8500,
+      "image": "https://romdoniahmad185-cmyk.github.io/image-game-/diamond-icon/diamond28.png"
+    },
+    {
+      "id": "ml44",
+      "amount": 44,
+      "unit": "Diamond",
+      "price": 12000,
+      "image": "https://romdoniahmad185-cmyk.github.io/image-game-/diamond-icon/diamond44.png"
+    },
+    {
+      "id": "ml86",
+      "amount": 86,
+      "unit": "Diamond",
+      "price": 22000,
+      "image": "https://romdoniahmad185-cmyk.github.io/image-game-/diamond-icon/diamond86.png"
+    },
+    {
+      "id": "ml172",
+      "amount": 172,
+      "unit": "Diamond",
+      "price": 44000,
+      "image": "https://romdoniahmad185-cmyk.github.io/image-game-/diamond-icon/diamond172.png"
+    },
+    {
+      "id": "ml257",
+      "amount": 257,
+      "unit": "Diamond",
+      "price": 66000,
+      "image": "https://romdoniahmad185-cmyk.github.io/image-game-/diamond-icon/diamond257.png"
+    },
+    {
+      "id": "ml344",
+      "amount": 344,
+      "unit": "Diamond",
+      "price": 88000,
+      "image": "https://romdoniahmad185-cmyk.github.io/image-game-/diamond-icon/diamond344.png"
+    }
+  ]
+}
