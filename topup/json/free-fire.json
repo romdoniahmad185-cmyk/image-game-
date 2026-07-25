@@ -13,61 +13,61 @@
       "amount": 5,
       "unit": "Diamond",
       "price": 1000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/5.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond5.png"
     },
     {
       "amount": 12,
       "unit": "Diamond",
       "price": 2000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/12.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond12.png"
     },
     {
       "amount": 50,
       "unit": "Diamond",
       "price": 8000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/50.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond50.png"
     },
     {
       "amount": 70,
       "unit": "Diamond",
       "price": 10000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/70.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond70.png"
     },
     {
       "amount": 140,
       "unit": "Diamond",
       "price": 20000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/140.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond140.png"
     },
     {
       "amount": 210,
       "unit": "Diamond",
       "price": 30000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/210.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond210.png"
     },
     {
       "amount": 355,
       "unit": "Diamond",
       "price": 50000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/355.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond355.png"
     },
     {
       "amount": 720,
       "unit": "Diamond",
       "price": 100000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/720.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond720.png"
     },
     {
       "amount": 1450,
       "unit": "Diamond",
       "price": 200000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/1450.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond1450.png"
     },
     {
       "amount": 2180,
       "unit": "Diamond",
       "price": 300000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/2180.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond2180.png"
     }
   ]
 }
