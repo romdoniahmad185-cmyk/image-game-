@@ -1,1 +1,62 @@
+{
+  "game": "Roblox",
 
+  "logo": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/roblox.png",
+
+  "banner": [
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/roblox-slide1.jpg",
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/roblox-slide2.jpg",
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/roblox-slide3.jpg"
+  ],
+
+  "products": [
+    {
+      "amount": 80,
+      "unit": "Robux",
+      "price": 15000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/robux.png"
+    },
+    {
+      "amount": 160,
+      "unit": "Robux",
+      "price": 30000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/robux.png"
+    },
+    {
+      "amount": 240,
+      "unit": "Robux",
+      "price": 45000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/robux.png"
+    },
+    {
+      "amount": 400,
+      "unit": "Robux",
+      "price": 75000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/robux.png"
+    },
+    {
+      "amount": 800,
+      "unit": "Robux",
+      "price": 150000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/robux.png"
+    },
+    {
+      "amount": 1700,
+      "unit": "Robux",
+      "price": 300000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/robux.png"
+    },
+    {
+      "amount": 4500,
+      "unit": "Robux",
+      "price": 750000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/robux.png"
+    },
+    {
+      "amount": 10000,
+      "unit": "Robux",
+      "price": 1500000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/robux.png"
+    }
+  ]
+}
