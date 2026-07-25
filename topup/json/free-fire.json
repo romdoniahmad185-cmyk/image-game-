@@ -1,1 +1,73 @@
+{
+  "game": "Free Fire",
+  "logo": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/fire-fir.jpg",
 
+  "banner": [
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/freefire/banner1.png",
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/freefire/banner2.png",
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/freefire/banner3.png"
+  ],
+
+  "products": [
+    {
+      "amount": 5,
+      "unit": "Diamond",
+      "price": 1000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamond/5.png"
+    },
+    {
+      "amount": 12,
+      "unit": "Diamond",
+      "price": 2000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamond/12.png"
+    },
+    {
+      "amount": 50,
+      "unit": "Diamond",
+      "price": 8000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamond/50.png"
+    },
+    {
+      "amount": 70,
+      "unit": "Diamond",
+      "price": 10000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamond/70.png"
+    },
+    {
+      "amount": 140,
+      "unit": "Diamond",
+      "price": 20000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamond/140.png"
+    },
+    {
+      "amount": 210,
+      "unit": "Diamond",
+      "price": 30000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamond/210.png"
+    },
+    {
+      "amount": 355,
+      "unit": "Diamond",
+      "price": 50000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamond/355.png"
+    },
+    {
+      "amount": 720,
+      "unit": "Diamond",
+      "price": 100000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamond/720.png"
+    },
+    {
+      "amount": 1450,
+      "unit": "Diamond",
+      "price": 200000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamond/1450.png"
+    },
+    {
+      "amount": 2180,
+      "unit": "Diamond",
+      "price": 300000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamond/2180.png"
+    }
+  ]
+}
