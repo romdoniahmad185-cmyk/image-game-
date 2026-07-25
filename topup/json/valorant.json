@@ -4,10 +4,9 @@
   "logo": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/valorant.png",
 
   "banner": [
-    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/valorant-slide1.jpg",
-    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/valorant-slide2.jpg",
-    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/valorant-slide3.jpg"
-  ],
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/banner-valorant/vltslide1.png",
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/banner-valorant/vltslide2.png",
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/banner-valorant/vltslide3.png],
 
   "products": [
     {
