@@ -1,1 +1,62 @@
+{
+  "game": "Valorant",
 
+  "logo": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/valorant.png",
+
+  "banner": [
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/valorant-slide1.jpg",
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/valorant-slide2.jpg",
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/valorant-slide3.jpg"
+  ],
+
+  "products": [
+    {
+      "amount": 125,
+      "unit": "VP",
+      "price": 15000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/valorant-vp.png"
+    },
+    {
+      "amount": 420,
+      "unit": "VP",
+      "price": 50000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/valorant-vp.png"
+    },
+    {
+      "amount": 700,
+      "unit": "VP",
+      "price": 80000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/valorant-vp.png"
+    },
+    {
+      "amount": 1375,
+      "unit": "VP",
+      "price": 150000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/valorant-vp.png"
+    },
+    {
+      "amount": 2400,
+      "unit": "VP",
+      "price": 250000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/valorant-vp.png"
+    },
+    {
+      "amount": 4000,
+      "unit": "VP",
+      "price": 400000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/valorant-vp.png"
+    },
+    {
+      "amount": 5350,
+      "unit": "VP",
+      "price": 520000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/valorant-vp.png"
+    },
+    {
+      "amount": 8150,
+      "unit": "VP",
+      "price": 780000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/valorant-vp.png"
+    }
+  ]
+}
