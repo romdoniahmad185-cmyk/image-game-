@@ -1,1 +1,73 @@
+{
+  "game": "PUBG Mobile",
+  "logo": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/gambarpubg.png",
 
+  "banner": [
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/pubg/banner1.png",
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/pubg/banner2.png",
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/pubg/banner3.png"
+  ],
+
+  "products": [
+    {
+      "amount": 60,
+      "unit": "UC",
+      "price": 16000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/uc/60.png"
+    },
+    {
+      "amount": 120,
+      "unit": "UC",
+      "price": 32000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/uc/120.png"
+    },
+    {
+      "amount": 180,
+      "unit": "UC",
+      "price": 48000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/uc/180.png"
+    },
+    {
+      "amount": 325,
+      "unit": "UC",
+      "price": 79000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/uc/325.png"
+    },
+    {
+      "amount": 385,
+      "unit": "UC",
+      "price": 95000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/uc/385.png"
+    },
+    {
+      "amount": 660,
+      "unit": "UC",
+      "price": 155000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/uc/660.png"
+    },
+    {
+      "amount": 720,
+      "unit": "UC",
+      "price": 169000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/uc/720.png"
+    },
+    {
+      "amount": 985,
+      "unit": "UC",
+      "price": 229000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/uc/985.png"
+    },
+    {
+      "amount": 1320,
+      "unit": "UC",
+      "price": 305000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/uc/1320.png"
+    },
+    {
+      "amount": 1800,
+      "unit": "UC",
+      "price": 410000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/uc/1800.png"
+    }
+  ]
+}
