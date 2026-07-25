@@ -3,7 +3,7 @@
 // =======================================
 
 
-const jsonURL = "https://romdoniahmad185-cmyk.github.io/image-game-/topup/json/mobile-legend.json";
+/*const jsonURL = "https://romdoniahmad185-cmyk.github.io/image-game-/topup/json/mobile-legend.json";
 fetch(jsonURL)
     .then(response => response.json())
     .then(data => {
@@ -11,7 +11,16 @@ fetch(jsonURL)
     })
 
 
-    .catch(error => console.error(error));
+    .catch(error => console.error(error));*/
+
+
+const params = new URLSearchParams(window.location.search);
+const game = params.get("game") || "mobile-legend";
+
+fetch(`json/${game}.json`)
+.then(res => res.json())
+.then(data => loadGame(data))
+.catch(err => console.error(err));
 
 // =======================================
 // Element HTML
