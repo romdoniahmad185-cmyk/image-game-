@@ -25,49 +25,44 @@
       "amount": 50,
       "unit": "Diamond",
       "price": 8000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond50.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond19.png"
     },
     {
       "amount": 70,
       "unit": "Diamond",
       "price": 10000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond70.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond28.png"
     },
     {
       "amount": 140,
       "unit": "Diamond",
       "price": 20000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond140.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond44.png"
     },
     {
       "amount": 210,
       "unit": "Diamond",
       "price": 30000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond210.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond86.png"
     },
     {
       "amount": 355,
       "unit": "Diamond",
       "price": 50000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond355.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond172.png"
     },
     {
       "amount": 720,
       "unit": "Diamond",
       "price": 100000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond720.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond257.png"
     },
     {
       "amount": 1450,
       "unit": "Diamond",
       "price": 200000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond1450.png"
-    },
-    {
-      "amount": 2180,
-      "unit": "Diamond",
-      "price": 300000,
-      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond2180.png"
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/diamind-icon/diamond344.png"
     }
+  
   ]
 }
