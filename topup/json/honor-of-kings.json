@@ -1,1 +1,68 @@
+{
+  "game": "Honor of Kings",
 
+  "logo": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/honorofkings.png",
+
+  "banner": [
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/hok-slide1.jpg",
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/hok-slide2.jpg",
+    "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/banner/hok-slide3.jpg"
+  ],
+
+  "products": [
+    {
+      "amount": 8,
+      "unit": "Tokens",
+      "price": 3000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/tokenhok.png"
+    },
+    {
+      "amount": 16,
+      "unit": "Tokens",
+      "price": 5000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/tokenhok.png"
+    },
+    {
+      "amount": 23,
+      "unit": "Tokens",
+      "price": 7000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/tokenhok.png"
+    },
+    {
+      "amount": 80,
+      "unit": "Tokens",
+      "price": 20000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/tokenhok.png"
+    },
+    {
+      "amount": 240,
+      "unit": "Tokens",
+      "price": 60000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/tokenhok.png"
+    },
+    {
+      "amount": 400,
+      "unit": "Tokens",
+      "price": 98000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/tokenhok.png"
+    },
+    {
+      "amount": 560,
+      "unit": "Tokens",
+      "price": 135000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/tokenhok.png"
+    },
+    {
+      "amount": 800,
+      "unit": "Tokens",
+      "price": 190000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/tokenhok.png"
+    },
+    {
+      "amount": 1200,
+      "unit": "Tokens",
+      "price": 285000,
+      "image": "https://cdn.jsdelivr.net/gh/romdoniahmad185-cmyk/image-game-/logo/tokenhok.png"
+    }
+  ]
+}
